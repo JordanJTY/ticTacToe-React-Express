@@ -41,7 +41,7 @@ To get this project, you only need to clone it in your computer and follow the s
 
 * clone this project:
     ```sh
-    git clone https://github.com/JordanJTY/ReactAndNodeWebSockets
+    git clone https://github.com/JordanJTY/ticTacToe-React-Express
     ```
 
 Then go to folders and:
